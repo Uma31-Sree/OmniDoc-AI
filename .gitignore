@@ -1,0 +1,23 @@
+# Environment variables (SECRETS!)
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Vector database (data, not code)
+chroma_db/
+
+# VS Code settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
