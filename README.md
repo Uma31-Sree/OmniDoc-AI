@@ -115,13 +115,15 @@ python main.py your_document.pdf
 ## 📸 Screenshots
 
 ### Home Screen
-*(Add screenshot here)*
+![Home Screen](Home Screen.png)
 
 ### Chat Interface
-*(Add screenshot here)*
+![Chat Interface](Chat Interface.png)
 
 ### Retrieved Sources
-*(Add screenshot here)*
+![Retrieved Sources1](Retrieved Sources1.png)
+![Retrieved Sources2](Retrieved Sources2.png)
+
 
 ---
 
